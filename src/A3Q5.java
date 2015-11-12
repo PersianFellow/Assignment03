@@ -32,7 +32,7 @@ public class A3Q5 {
         
         A3Q5 test = new A3Q5();
         
-        int[] n = {10,9,8,7,6,5,4,3,2,1};
+        int[] n = {1,98,85,71,65,5,14,63,21,1};
         test.insertionReverse(n);
         
         for(int i = 0; i < n.length; i++)
